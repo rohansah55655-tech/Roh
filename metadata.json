@@ -1,0 +1,6 @@
+{
+  "name": "Turbo Circuit: Car Racing",
+  "description": "An action-packed arcade car racing game featuring high-speed highway traffic dodging, multiple race cars, dynamic weather, nitro boost, police chase mode, garage upgrades, and synthesized sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
